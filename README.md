@@ -20,7 +20,7 @@ The CNN model is fully custom-defined and consists of the following layers:
 
 Model architecture is illustrated below:
 
-![Model Diagram](./model_diagram.png)
+![ModelDiagram](./ModelDiagram.png)
 
 ## 📈 Training Process
 
@@ -78,7 +78,7 @@ CNN modeli sıfırdan tanımlanmış olup aşağıdaki katmanlardan oluşur:
 
 Model mimarisi görsel olarak şöyle gösterilmiştir:
 
-![Model Diagram](./model_diagram.png)
+![ModelDiagram](./ModelDiagram.png)
 
 ## 📈 Eğitim Süreci
 
